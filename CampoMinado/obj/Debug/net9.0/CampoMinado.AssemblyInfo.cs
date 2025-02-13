@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSHARPProjetosSenac")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CampoMinado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2991185842bb47feb6b957570a4bf75702841bd9")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSHARPProjetosSenac")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSHARPProjetosSenac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bacef6dbaddf0dfd2784aa2330284d416dccf157")]
+[assembly: System.Reflection.AssemblyProductAttribute("CampoMinado")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CampoMinado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.sourcelink.json
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\bin\Debug\net9.0\CampoMinado.exe
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\bin\Debug\net9.0\CampoMinado.deps.json
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\bin\Debug\net9.0\CampoMinado.runtimeconfig.json
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\bin\Debug\net9.0\CampoMinado.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\bin\Debug\net9.0\CampoMinado.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\refint\CampoMinado.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\CampoMinado.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\CampoMinado\obj\Debug\net9.0\ref\CampoMinado.dll
