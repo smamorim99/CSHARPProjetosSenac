@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\bin\Debug\net9.0\AplicativoNotas.exe
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\bin\Debug\net9.0\AplicativoNotas.deps.json
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\bin\Debug\net9.0\AplicativoNotas.runtimeconfig.json
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\bin\Debug\net9.0\AplicativoNotas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\bin\Debug\net9.0\AplicativoNotas.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.sourcelink.json
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\refint\AplicativoNotas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\AplicativoNotas.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\AplicativoNotas\obj\Debug\net9.0\ref\AplicativoNotas.dll
