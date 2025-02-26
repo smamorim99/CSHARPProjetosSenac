@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.sourcelink.json
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\bin\Debug\net9.0\Aula3.exe
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\bin\Debug\net9.0\Aula3.deps.json
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\bin\Debug\net9.0\Aula3.runtimeconfig.json
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\bin\Debug\net9.0\Aula3.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\bin\Debug\net9.0\Aula3.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\refint\Aula3.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\Aula3.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\Aula3\obj\Debug\net9.0\ref\Aula3.dll
