@@ -1,4 +1,0 @@
-class Boletim
-{
-    
-}

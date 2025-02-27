@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\bin\Debug\net9.0\OrdenaçãoDeVetores.exe
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\bin\Debug\net9.0\OrdenaçãoDeVetores.deps.json
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\bin\Debug\net9.0\OrdenaçãoDeVetores.runtimeconfig.json
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\bin\Debug\net9.0\OrdenaçãoDeVetores.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\bin\Debug\net9.0\OrdenaçãoDeVetores.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.sourcelink.json
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\refint\OrdenaçãoDeVetores.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\OrdenaçãoDeVetores.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\OrdenaçãoDeVetores\obj\Debug\net9.0\ref\OrdenaçãoDeVetores.dll
