@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrdenaçãoDeVetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+429d3742398e16de0e9bc4f01c26fcf40e8d5148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5ffd118adcfc544417f8a2f69f720c302f26053")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrdenaçãoDeVetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrdenaçãoDeVetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

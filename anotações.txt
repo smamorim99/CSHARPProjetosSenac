@@ -12,22 +12,26 @@
 
     int[] numeros = [10, 20, 30];
 
-int[] numeros2 = new int [5];
+    int[] numeros2 = new int [5];
 
-numeros2[0] = 5;
+    numeros2[0] = 5;
 
-int x = numeros[2];
-Console.WriteLine(x);
+    int x = numeros[2];
+    Console.WriteLine(x);
 
-int t1 = numeros.Length;
-Console.WriteLine(t1);
+    int t1 = numeros.Length;
+    Console.WriteLine(t1);
 
-for (int i= 0; i < numeros2.Length; i++){
-    int item = numeros2[i];
-    Console.WriteLine(item);
-}
+    for (int i= 0; i < numeros2.Length; i++){
+        int item = numeros2[i];
+        Console.WriteLine(item);
+    }
 
-foreach (int numero in numeros)
-{
-    Console.WriteLine(numero);
-}
+    foreach (int numero in numeros)
+    {
+        Console.WriteLine(numero);
+    }
+
+ANOTAÇÕES AULA 4 | ALGOTIMOS DE BUSCA:
+
+*
