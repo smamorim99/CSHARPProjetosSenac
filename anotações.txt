@@ -32,6 +32,14 @@
         Console.WriteLine(numero);
     }
 
-ANOTAÇÕES AULA 4 | ALGOTIMOS DE BUSCA:
+ANOTAÇÕES AULA 4 | ALGORITMOS DE BUSCA:
 
-*
+* Os algoritmos são uma sequencia de passos finitas, com começo, meio e fim
+# ALGORITMO DE BUSCA LINEAR
+
+#ALGORITMO DE BUSCA BINARIO 
+
+* descobrimos o pior cenerio de um algoritmo através do calculo de logaritmo
+* para usar a busca binaria é necessario que o array esteja ordenado
+
+

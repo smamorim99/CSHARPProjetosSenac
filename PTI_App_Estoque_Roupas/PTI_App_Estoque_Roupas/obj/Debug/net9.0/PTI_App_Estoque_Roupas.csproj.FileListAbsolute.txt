@@ -1,0 +1,15 @@
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\bin\Debug\net9.0\PTI_App_Estoque_Roupas.exe
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\bin\Debug\net9.0\PTI_App_Estoque_Roupas.deps.json
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\bin\Debug\net9.0\PTI_App_Estoque_Roupas.runtimeconfig.json
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\bin\Debug\net9.0\PTI_App_Estoque_Roupas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\bin\Debug\net9.0\PTI_App_Estoque_Roupas.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.AssemblyInfoInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.AssemblyInfo.cs
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.csproj.CoreCompileInputs.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.sourcelink.json
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\refint\PTI_App_Estoque_Roupas.dll
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.pdb
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\PTI_App_Estoque_Roupas.genruntimeconfig.cache
+C:\VSCodeProjects\CSHARPProjetosSenac\PTI_App_Estoque_Roupas\PTI_App_Estoque_Roupas\obj\Debug\net9.0\ref\PTI_App_Estoque_Roupas.dll

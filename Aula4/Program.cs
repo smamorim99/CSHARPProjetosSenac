@@ -26,8 +26,7 @@
 
             case 3:
             Console.WriteLine("Remover produto:");
-            string nome = tela.PedirNome();
-            int qtd = tela.PedirQtd();
+           
             
             break;
 
@@ -42,7 +41,7 @@
 
             case 5: 
             Console.WriteLine("saida estoque");
-            estoque.SaidaEstoque();
+            
             break;
 
             default:

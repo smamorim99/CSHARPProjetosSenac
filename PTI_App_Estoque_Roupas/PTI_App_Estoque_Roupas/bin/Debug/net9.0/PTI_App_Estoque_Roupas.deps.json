@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PTI_App_Estoque_Roupas/1.0.0": {
+        "runtime": {
+          "PTI_App_Estoque_Roupas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PTI_App_Estoque_Roupas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
